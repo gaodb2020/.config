@@ -1,0 +1,5 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =3
+let g:netrw_dirhist_3='/home/gdb/workenv/open_source/go/src/bufio'
+let g:netrw_dirhist_2='/home/gdb/workenv/open_source/go/src'
+let g:netrw_dirhist_1='/home/gdb/workenv/open_source/go'
